@@ -1,0 +1,4 @@
+Finance notes:
+- Budget per month is $2,000.
+- The CFO wants cloud spend flagged if it exceeds $800 in any month.
+- Travel was pre-approved for the February conference.
