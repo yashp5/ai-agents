@@ -55,9 +55,11 @@ on purpose — no frameworks — so the mechanics stay visible. Frameworks appea
 
 ## Case studies (the payoff)
 
-Five archetypes, chosen so that together they cover nearly every "AI agents for X" company:
+Five archetypes, chosen so that together they cover nearly every "AI agents for X" company.
+Start with the [case-studies index](case-studies/README.md), which also covers what this
+taxonomy deliberately excludes.
 
-- **Coding agent** (Claude Code / Cursor style) — the deepest agent loop in production
+- **[Coding agent](case-studies/coding-agent.md)** (Claude Code / Cursor style) — the deepest agent loop in production
 - **Deep research agent** — multi-agent orchestration and long-horizon planning
 - **Computer-use agent** — vision, action spaces, the novel frontier
 - **Support agent** (Sierra / Fin style) — the reliability-engineering masterclass
