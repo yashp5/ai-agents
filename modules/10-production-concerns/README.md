@@ -154,3 +154,8 @@ Three measured demos: prompt caching on a real policy-corpus prefix, Haiku vs
 Opus on the same triage task (same labels, ~26× the cost), and a poisoned
 document whose payout is stopped by a cap in code rather than a line in a
 prompt.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

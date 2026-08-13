@@ -69,3 +69,8 @@ uv run modules/00-llm-api-foundations/example.py
 The example makes three calls: (1) a basic call, printing the raw response structure,
 (2) the same question with a system prompt that changes the product, (3) a multi-turn
 conversation showing that *you* carry the state, with streaming.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

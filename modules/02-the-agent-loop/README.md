@@ -69,3 +69,8 @@ summary report* — and figures out the steps itself. Watch the trace: nobody to
 list first, read second, compute third, write last.
 
 Run it twice and the trace may differ slightly — that's the model planning, not a script.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

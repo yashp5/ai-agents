@@ -78,3 +78,8 @@ uv run modules/03-structured-output/example.py
 
 The example extracts a structured claim record from a messy insurance email at
 all three levels of rigor, printing what each level does and doesn't guarantee.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

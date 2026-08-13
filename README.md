@@ -78,3 +78,14 @@ uv run modules/00-llm-api-foundations/example.py
 
 Examples use the Anthropic API with `claude-opus-5`. Each run costs a fraction of a cent
 to a few cents.
+
+---
+
+## Attribution
+
+Written with [Claude Code](https://claude.com/claude-code).
+
+```
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_019eMFFQeyuFgU1dQvdjDLKF
+```

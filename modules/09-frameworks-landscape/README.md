@@ -137,3 +137,8 @@ uv run modules/09-frameworks-landscape/example.py
 
 Adds `langgraph` and `langchain-anthropic` — the only modules in this repo with
 a framework dependency, which is itself the point.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

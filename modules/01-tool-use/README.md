@@ -67,3 +67,8 @@ The example defines two fake "company" tools (order lookup + refund issuing), pr
 raw `tool_use` block the model emits so you can see the wire format, executes the tools in
 Python, and feeds results back. Watch how the model chains a lookup before deciding on the
 refund — with no loop code yet, just manual steps.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

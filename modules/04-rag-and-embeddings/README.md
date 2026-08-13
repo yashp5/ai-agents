@@ -107,3 +107,8 @@ uv run modules/04-rag-and-embeddings/example.py
 Four demos over a small HomeShield policy corpus (`docs/`): embedding intuition,
 retrieval with zero keyword overlap, one-shot pipeline RAG with citations (vs.
 the ungrounded answer), and an agentic multi-hop payout question.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

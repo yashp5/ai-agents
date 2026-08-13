@@ -192,3 +192,8 @@ set in parallel, scores it per field, grades a customer letter with an
 LLM-as-judge (against a deliberately bad one, so you can see the judge
 discriminate), sweeps the confidence threshold to show the coverage/precision
 trade, and prints a cost-and-latency trace of every model call it made.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

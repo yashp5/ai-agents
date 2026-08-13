@@ -111,3 +111,8 @@ Three demos: watching the token bill grow turn by turn; a long claims
 conversation continued after trimming (fails) vs after compaction (works),
 with real token counts; and "the agent remembered me" across two fresh
 sessions via an extracted `memory.json`.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*

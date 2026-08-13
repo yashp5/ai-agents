@@ -110,3 +110,8 @@ consistency) that work in isolated contexts; the lead synthesizes findings it
 could never have afforded to research in its own window. Demo 2: a six-step
 claims workflow journals every step, **crashes** after step 3, and on rerun
 replays steps 1–3 free before executing 4–6 — including an idempotent payment.
+
+---
+
+*Part of a [learning repo](../../README.md) on how AI agents are built. Notes and code
+co-authored with Claude Opus 5 via Claude Code, then run end-to-end against the real API.*
