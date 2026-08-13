@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# scratch workspace used by module 02's agent
+modules/02-the-agent-loop/workspace/output/
+modules/05-memory-and-context/memory.json
+modules/06-orchestration/workflow_state.json
+.ruff_cache/
+.claude/settings.local.json
