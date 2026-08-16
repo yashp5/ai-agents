@@ -5,6 +5,8 @@ __pycache__/
 .DS_Store
 # scratch workspace used by module 02's agent
 modules/02-the-agent-loop/workspace/output/
+# assistant scratch dir (temp working files, e.g. artifact sources)
+scratchpad/
 modules/05-memory-and-context/memory.json
 modules/06-orchestration/workflow_state.json
 .ruff_cache/
