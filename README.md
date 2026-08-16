@@ -65,6 +65,10 @@ taxonomy deliberately excludes.
 - **Support agent** (Sierra / Fin style) — the reliability-engineering masterclass
 - **Document-workflow agent** — the enterprise archetype (patents, insurance, payments are all variants of this)
 
+Plus a **[curious example](case-studies/smart-contract-exploit-agent.md)** that isn't an archetype but explains
+why they work: a [smart-contract exploit agent](case-studies/smart-contract-exploit-agent.md) — the coding agent
+with its test suite swapped for *profit on a forked chain*, a verifier that can't be faked.
+
 ## Setup
 
 ```bash

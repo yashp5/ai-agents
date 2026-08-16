@@ -93,6 +93,20 @@ exactly what reinforcement learning needs. Math and code are the two domains
 where you can manufacture unlimited training signal without human labelers,
 which is why frontier progress has been fastest there.
 
+For a second instance of the same move — a coding-shaped agent whose verifier is
+upgraded from "probably right" to ground truth — see the curious example below.
+
+### A curious example: the smart-contract exploit agent
+
+Not an archetype, but the sharpest illustration in the repo of *why the
+archetypes work*. Point an agent at a deployed smart contract, let it write an
+exploit and run it against a forked copy of the real chain, and score it on
+whether the balance went up. It's the [coding agent](coding-agent.md) with its
+test suite replaced by **profit on a fork** — a verifier that can't be faked —
+which is why it sits next to Harmonic rather than inside an archetype. Anthropic
+open-sourced the harness (SCONE-bench), so for once the architecture is published
+code rather than inference. **[Read it →](smart-contract-exploit-agent.md)**
+
 And it demonstrates the question worth asking any company making a correctness
 claim. "Hallucination-free" here is *scoped*: what's guaranteed is that the Lean
 proof type-checks. The soft edges are at the boundary — autoformalizing an
